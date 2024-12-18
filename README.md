@@ -1,5 +1,7 @@
 # LEAVE LEDGER
 LeaveLedger is an Employee Leave Management Platform designed to help employees schedule and submit new leave requests. These requests can be reviewed and approved by the Higher Authority (Admin).
+
+
 ![image](https://github.com/user-attachments/assets/6886e79a-6a3b-46fe-8349-0f517c0b822a)
 ![image](https://github.com/user-attachments/assets/546c65a5-65e1-4ed7-ac0f-d9ab4885a305)
 
